@@ -3,7 +3,7 @@ package com.github.code.basic;
 /**
  * @Title: Code_IsBalancedTree
  * @Description: 判断一棵二叉树是否是平衡二叉树
- * 平衡二叉树：树中的任意一个节点，对应左子树和右子树的高度差不超过1
+ * 平衡二叉树：树中的任意一个节点，对应左子树和右子树的高度差绝对值不超过1
  * @Author: Rishiber
  * @Version: 1.0
  * @create: 2019/7/11 10:44
