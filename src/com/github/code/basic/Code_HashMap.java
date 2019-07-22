@@ -1,5 +1,8 @@
 package com.github.code.basic;
 
+import java.util.HashMap;
+import java.util.Map;
+
 /**
  * @Title: Code_HashMap
  * @Description:
@@ -18,4 +21,8 @@ package com.github.code.basic;
 
 // 大数据问题利器：哈希函数=>相同输入导致相同输出，不同输入均匀分布。
 public class Code_HashMap {
+    public static void main(String[] args) {
+        Map<String, Object> map = new HashMap<>();
+        map.put("test", new Object());
+    }
 }
